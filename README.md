@@ -1,0 +1,1 @@
+[Curriculum Vitae](https://vovakor1.github.io/rsschool-codejam1-cv/)
