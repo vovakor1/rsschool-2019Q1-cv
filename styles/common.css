@@ -51,6 +51,7 @@ footer{
     padding: 10px 0;
     background-color: #09172d;
     color: #FFF;
+    font-size: 1.2rem;
 }
 main {
     background-color: #fffdd3;
@@ -66,4 +67,11 @@ nav a {
 nav a+a{
     border-left: 2px solid;
     border-color: #FFFFFF;
+}
+nav a:link{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+nav a:visited{
+    color: #bab793;
 }
