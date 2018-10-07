@@ -1,0 +1,7 @@
+main {
+    background-color: #fffdd3;
+    margin: 0 auto;
+    width: 50%;
+    min-height: calc(100% - 145px);
+    padding: 0 15px 10px;
+}

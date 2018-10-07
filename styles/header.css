@@ -1,0 +1,27 @@
+header{
+    position: fixed;
+    width: 100%;
+    background-color: #09172d;
+    color: #FFFFFF;
+    padding-top: 10px;
+    top: 0;
+}
+nav {
+    margin: 20px;
+    font-size: 2rem;
+}
+nav a {
+    display: inline-block;
+    padding: 0 10px;
+}
+nav a+a{
+    border-left: 2px solid;
+    border-color: #FFFFFF;
+}
+nav a:link{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+nav a:visited{
+    color: #bab793;
+}
