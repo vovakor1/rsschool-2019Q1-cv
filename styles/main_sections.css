@@ -1,0 +1,16 @@
+main {
+    background-color: #fffdd3;
+    margin: 0 auto;
+    width: 50%;
+    min-height: calc(100% - 145px);
+    padding: 0 15px 10px;
+    max-width: 1024px;
+}
+div.photo {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: fixed;
+    top: 140px;
+    left: 30px;
+}
